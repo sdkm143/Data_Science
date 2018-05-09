@@ -1,0 +1,3 @@
+Hadoop ?
+hadoop is open source software plteform for distribulted storage & distributed  processing the large scale data sets on cluster
+of commidity hardware .
