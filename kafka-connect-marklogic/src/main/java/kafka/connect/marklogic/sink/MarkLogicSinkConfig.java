@@ -12,8 +12,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * 
- * @author Sanju Thomas
+ * @author Dharmendra.Kumar
  *
  */
 public class MarkLogicSinkConfig extends AbstractConfig {

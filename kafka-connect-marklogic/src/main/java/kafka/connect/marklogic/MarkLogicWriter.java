@@ -19,9 +19,9 @@ import com.marklogic.client.DatabaseClientFactory.DigestAuthContext;
 import com.marklogic.client.document.JSONDocumentManager;
 import com.marklogic.client.io.JacksonHandle;
 
+
 /**
- * 
- * @author Sanju Thomas
+ * @author Dharmendra.Kumar
  *
  */
 public class MarkLogicWriter implements Writer{

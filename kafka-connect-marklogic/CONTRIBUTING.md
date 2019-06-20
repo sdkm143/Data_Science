@@ -2,10 +2,10 @@
 
 kafka-connect-marklogic welcomes new contributors. This document will guide you through the process.
 
- - [Question or Problem?](#question)
- - [Issues and Bugs](#issue)
- - [Feature Requests](#feature)
- - [Submission Guidelines](#submit)
+ -[Question or Problem](question)
+ - [Issues and Bugs](issue)
+ - [Feature Requests](feature)
+ - [Submission Guidelines](submit)
  
 ## <a name="question"></a> Got a Question or Problem?
 
