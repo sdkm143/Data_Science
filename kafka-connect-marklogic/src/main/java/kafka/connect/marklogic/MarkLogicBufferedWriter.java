@@ -15,9 +15,9 @@ import org.slf4j.LoggerFactory;
 import com.marklogic.client.datamovement.DataMovementManager;
 import com.marklogic.client.datamovement.WriteBatcher;
 
+
 /**
- * 
- * @author Sanju Thomas
+ * @author Dharmendra.Kumar
  *
  */
 public class MarkLogicBufferedWriter extends MarkLogicWriter implements Writer{
